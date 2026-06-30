@@ -114,3 +114,18 @@ footer {
 .show-card{
   padding-left: 0;
 }
+
+.logo-img {
+    height: 10rem; 
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* Smaller screens */
+@media (max-width: 768px) {
+    .logo-img {
+        height: 2rem;
+    }
+}
