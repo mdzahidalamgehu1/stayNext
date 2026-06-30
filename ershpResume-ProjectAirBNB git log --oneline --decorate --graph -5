@@ -1,6 +1,0 @@
-* [33mb50416b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msignup-auth[m[33m)[m update project structure
-* [33m0228c0b[m[33m ([m[1;31morigin/signup-auth[m[33m)[m Added user signup and login authentication
-* [33mce88a5b[m[33m ([m[1;31morigin/review-feature[m[33m, [m[1;32mreview-feature[m[33m)[m Added review functionality
-*   [33mf5de971[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/added-review-form[m[33m, [m[1;32mmain[m[33m, [m[1;32madded-review-form[m[33m)[m Merge branch 'main' of https://github.com/mdzahidalamgehu1/Airbnb
-[32m|[m[33m\[m  
-[32m|[m * [33m929b450[m Initial commit
